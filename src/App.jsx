@@ -95,7 +95,7 @@ function App() {
     <div>
       <header className="nav">
         <div className="nav-inner">
-          <a href="#hero" className="brand"><img src="/icone.png" alt="" className="brand-icon" /> IGOR PIRES</a>
+          <a href="#hero" className="brand"><img src="/portifolioIgor/icone.png" alt="" className="brand-icon" /> IGOR PIRES</a>
           <nav className="menu">
             <a href="#sobre">Sobre</a>
             <a href="#servicos">Serviços</a>
@@ -200,7 +200,7 @@ function App() {
 
       <section id="contato" className="contact">
         <div className="container">
-          <div className="card" style={{background: 'url(/sobre.jpg)'}}>
+          <div className="card" style={{background: 'url(/portifolioIgor/sobre.jpg)'}}>
             <h2>Contato</h2>
             <p>Precisa de textos que conversem com seu público e entreguem resultados? Entre em contato:</p>
             <div className="info">
